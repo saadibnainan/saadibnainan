@@ -1,5 +1,4 @@
 
-### <img src="https://imgtree.co/direct/jQtWFgw-.jpg" alt="IMG_2721.jpg" width="15"/> Portfolio Preview: 
 <a href="https://www.saadibnainan.tech/#skills" target="_blank">
   <img src="skills.png" alt="Skills section" width="750" />
 </a>
